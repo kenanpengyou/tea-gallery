@@ -1,0 +1,22 @@
+{
+  "name": "tea-gallery",
+  "version": "1.0.0",
+  "description": "A cross-platform web application to exhibit works by illustrators, painters, etc.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenanpengyou/tea-gallery.git"
+  },
+  "keywords": [
+    "gallery"
+  ],
+  "author": "Zhu Liang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenanpengyou/tea-gallery/issues"
+  },
+  "homepage": "https://github.com/kenanpengyou/tea-gallery",
+  "devDependencies": {
+    "http-server": "^0.8.5"
+  }
+}
